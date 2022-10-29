@@ -1,0 +1,2 @@
+# TEST_PRECHECKS
+TEST Prechecks of SIC LNA
